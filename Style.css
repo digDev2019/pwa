@@ -1,0 +1,16 @@
+.main{
+    margin: 0 auto;
+    text-align: center;
+    background-color: #F2F2F2;
+    width: 100%;
+    min-height: 250px;
+}
+
+.trigger-push{
+  background-color: #073525;
+  border: 1px solid #073525;
+}
+
+.buttons{
+    text-align: center;
+}

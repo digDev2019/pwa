@@ -1,0 +1,53 @@
+{
+  "lang": "ru",
+  "dir": "ltr",
+  "name": "PWA App",
+  "short_name": "myPWA",
+  "icons": [
+      {
+       "src": "./img/icon512x512.png",
+       "sizes": "512x512",
+       "type": "image/png"
+    },
+    {
+      "src": "./img/icon192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/icon72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/icon48x48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/icon32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/icon24x24.png",
+      "sizes": "24x24",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/icon22x22.png",
+      "sizes": "22x22",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/icon16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+     }
+],
+  "theme_color": "#1a1a1a",
+  "background_color": "#1a1a1a",
+  "start_url": "/pwa/index.html",
+  "display": "standalone",
+  "orientation": "natural"
+}
